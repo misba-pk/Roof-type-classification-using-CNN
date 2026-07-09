@@ -193,17 +193,6 @@ Roof Type Prediction
 
 ---
 
-## Repository Structure
-
-```text
-Roof-Type-Classification/
-│
-├── Roof Type Classification (Solution full).ipynb
-├── README.md
-├── requirements.txt
-└── dataset/
-```
-
 ---
 
 ## Results
@@ -234,22 +223,6 @@ This project demonstrates practical experience with:
 * Model evaluation
 * Deep learning workflow development
 
----
 
-## Future Improvements
-
-Possible extensions include:
-
-* Hyperparameter optimization
-* K-fold cross-validation
-* Experiment tracking with TensorBoard or Weights & Biases
-* Additional data augmentation techniques
-* Grad-CAM visualizations for model interpretability
-* Comparison with other pretrained models such as ResNet, DenseNet, or Vision Transformers
-* Model deployment using TorchServe or a web application
-
----
-
-## Acknowledgements
 
 This project was developed as part of a computer vision and deep learning learning exercise to explore transfer learning techniques for roof type image classification using PyTorch and EfficientNet-V2.
